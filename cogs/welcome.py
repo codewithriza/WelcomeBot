@@ -25,9 +25,9 @@ class Welcome(commands.Cog):
             pfp = circle(pfp)
             pfp = pfp.resize((350, 350))
 
-            background = Image.open("BACKGROUND.png")  # Replace with your background image path
+            background = Image.open("assests/image/BACKGROUND.png")  # Replace with your background image path
             font_size = 60  # Adjust the font size 
-            font = ImageFont.truetype("leaguegothic-condensed-italic-webfont.ttf", font_size) 
+            font = ImageFont.truetype("assets/font/leaguegothic-condensed-italic-webfont.ttf", font_size) 
 
             draw = ImageDraw.Draw(background)
             member_text = member.display_name  # Use member's display name
