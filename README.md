@@ -42,5 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots
 
-![Screenshot 1]()
-![Screenshot 2]()
+<img src="https://raw.githubusercontent.com/codewithriza/WelcomeBot/main/working/screenshot.png" alt="Screenshot" width="400">
+</br>
+<img src="https://raw.githubusercontent.com/codewithriza/WelcomeBot/main/working/screenshot2.png" alt="Screenshot 2" width="400">
+
