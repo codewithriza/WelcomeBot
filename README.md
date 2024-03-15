@@ -46,3 +46,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </br>
 <img src="https://raw.githubusercontent.com/codewithriza/WelcomeBot/main/working/screenshot2.png" alt="Screenshot 2" width="400">
 
+---
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/887532157747212370)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/codewithriza)
